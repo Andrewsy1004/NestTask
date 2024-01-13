@@ -9,9 +9,9 @@
 # Task API 🚀
 1. **Clone Project**
      - Clone the project using the following command:
-     ```bash
-     git clone [https://github.com/Andrewsy1004/NestTask.git]
-     ```
+       ```bash
+       git clone [https://github.com/Andrewsy1004/NestTask.git]
+       ```
 
 2. **Install Dependencies**
    - Run the following command to install all necessary dependencies:
