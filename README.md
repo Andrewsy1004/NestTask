@@ -8,7 +8,7 @@
 
 # Task API 🚀
 1. **Clone Project**
-   - Clone the project using the following command:
+     Clone the project using the following command:
      ```bash
      git clone [https://github.com/Andrewsy1004/NestTask.git]
      ```
